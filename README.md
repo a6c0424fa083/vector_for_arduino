@@ -9,4 +9,4 @@ For example the maximum length of the vector was reduced to 65535 (16 bit).
 
 ## Note
 
-There may be some minor differences from the standard C++ vector class.
+There are some (minor) differences from the standard C++ vector class.
